@@ -1,4 +1,4 @@
-# PTOF Agents Console (React, JavaScript + JSX)
+# UI-landing-page (PTOF Agents Console)
 
 ## Run
 npm install
